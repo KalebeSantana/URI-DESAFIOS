@@ -1,8 +1,8 @@
 # Desafios Uri Online Judge em C#
-## Beginner
+## Iniciante
 
-| Problem name | # |
+| Nome do problema | # |
 | --- | --- |
-| Extremely Basic | [**1001**](https://github.com/KalebeSantana/URI-DESAFIOS/blob/main/Beginner/uri1001/Program.cs) |
-| Circle area | [**1002**](https://github.com/KalebeSantana/URI-DESAFIOS/blob/main/Beginner/uri1002/Program.cs) |
+| Extremamente Básico | [**1001**](https://github.com/KalebeSantana/URI-DESAFIOS/blob/main/Beginner/uri1001/Program.cs) |
+| Área do Círculo | [**1002**](https://github.com/KalebeSantana/URI-DESAFIOS/blob/main/Beginner/uri1002/Program.cs) |
 
