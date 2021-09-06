@@ -1,0 +1,15 @@
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.exe
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.deps.json
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.runtimeconfig.json
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.runtimeconfig.dev.json
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.dll
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\ref\uri1006.dll
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\bin\Debug\net5.0\uri1006.pdb
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.AssemblyInfoInputs.cache
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.AssemblyInfo.cs
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.csproj.CoreCompileInputs.cache
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.dll
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\ref\uri1006.dll
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.pdb
+D:\wce_github\wce_urionline\URI-DESAFIOS\Beginner\uri1006\obj\Debug\net5.0\uri1006.genruntimeconfig.cache
