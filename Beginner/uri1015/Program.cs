@@ -32,8 +32,6 @@ namespace uri1015
 
             Console.WriteLine(distancia.ToString("F4"));
 
-
-
         }
     }
 }
