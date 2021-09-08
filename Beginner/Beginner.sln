@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "uri1015", "uri1015\uri1015.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri1016", "uri1016\uri1016.csproj", "{5B158168-F891-458F-98BE-04FBDE7F78AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uri1017", "1017\uri1017.csproj", "{45E4112E-43ED-44DD-B38D-73961880D57F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{5B158168-F891-458F-98BE-04FBDE7F78AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B158168-F891-458F-98BE-04FBDE7F78AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B158168-F891-458F-98BE-04FBDE7F78AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E4112E-43ED-44DD-B38D-73961880D57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E4112E-43ED-44DD-B38D-73961880D57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E4112E-43ED-44DD-B38D-73961880D57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E4112E-43ED-44DD-B38D-73961880D57F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
